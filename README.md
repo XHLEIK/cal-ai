@@ -1,7 +1,7 @@
 # CalC.Ai - Advanced Calculator with AI Assistance
 
 <div align="center">
-  <img src="cal-ai/public/cal_cai-logo.png" alt="CalC.Ai Logo" width="300" />
+  <img src="Cal_c.Ai/public/cal_cai-logo.png" alt="CalC.Ai Logo" width="300" />
   <h3>Smart calculations, intelligent assistance, seamless experience</h3>
 </div>
 
@@ -72,10 +72,10 @@ CalC.Ai is designed with a mobile-first approach, ensuring a seamless experience
 
 ```bash
 # Clone the repository
-git clone https://github.com/XHLEIK/cal-ai.git
+git clone https://github.com/XHLEIK/Cal_c.Ai.git
 
 # Navigate to the project directory
-cd cal-ai
+cd Cal_c.Ai
 
 # Install dependencies
 npm install
