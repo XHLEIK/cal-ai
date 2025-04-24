@@ -1,7 +1,7 @@
 # CalC.Ai - Advanced Calculator with AI Assistance
 
 <div align="center">
-  <img src="cal-ai/public/logo.svg" alt="CalC.Ai Logo" width="150" />
+  <img src="C:\Users\ASUS\Desktop\Cal-Ai\cal-ai\public\favicon-32x32.png" alt="CalC.Ai Logo" width="150" />
   <h3>Smart calculations, intelligent assistance, seamless experience</h3>
 </div>
 
