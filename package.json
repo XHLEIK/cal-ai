@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "dotenv": "^16.5.0",
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.13.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.3"
+  }
+}
